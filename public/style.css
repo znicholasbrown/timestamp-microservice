@@ -1,0 +1,23 @@
+body, html {
+  overflow: hidden;
+}
+code {
+  background-color: #414141;
+  color: #6BED5B;
+  padding: 0.25em;
+  line-height: 1em;
+  font-size: 1em;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 1em;
+  text-align: center;
+  font-size: 0.8em;
+  width: 100%;
+  margin: auto;
+}
+
+a {
+  color: blue;
+}

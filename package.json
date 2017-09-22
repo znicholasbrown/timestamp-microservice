@@ -1,0 +1,25 @@
+{
+  "name": "timestamp-microservice",
+  "version": "0.0.1",
+  "description": "An API that responds to timestamp queries with a JSON object containing both natural and UNIX timestamps.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "moment": "2.18.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://znicholasbrown.github.io/timestamp-microservice"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "fcc",
+    "express"
+  ]
+}
